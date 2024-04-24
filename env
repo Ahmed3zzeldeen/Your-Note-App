@@ -1,0 +1,9 @@
+# Firebase config
+FIREBASE_API_KEY=AIzaSyBNTrWdp1YqCO4AGPehVn2IqMRWUaEvmqY
+FIREBASE_AUTH_DOMAIN=your-note-app.firebaseapp.com
+FIREBASE_PROJECT_ID=your-note-app
+FIREBASE_STORAGE_BUCKET=your-note-app.appspot.com
+FIREBASE_MESSAGING_SENDER_ID=1000251385081
+FIREBASE_APP_ID=1:1000251385081:web:02e3f461401544a9f5ee28
+
+# TODO: Replace the placeholders above with actual Firebase configuration values
